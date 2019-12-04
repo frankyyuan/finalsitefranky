@@ -1,2 +1,2 @@
 # franky-s-site
-https://frankyyuan.github.io/finalsitefranky/
+https://frankyyuan.github.io/franky-s-site/.
